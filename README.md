@@ -4,3 +4,6 @@ Untuk Menampilkan semua file ber extensi jpg.png dll dalam Folder.
 
 Link Donasi Varrdump programing :
 https://saweria.co/varrdump
+
+Link Youtube Review : 
+https://www.youtube.com/watch?v=mawN6bSILEk&t=253s
